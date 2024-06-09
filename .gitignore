@@ -1,0 +1,7 @@
+input_videos/
+models/
+output_videos/
+runs/
+tracker_stubs/
+training/runs
+training\yolov5l6u.pt
