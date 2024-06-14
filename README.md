@@ -27,6 +27,6 @@ Training training/tennis_court_keypoints_training.ipynb , training/tennis_ball_d
     <li>Yolo : https://pjreddie.com/darknet/yolo/</li>
     <li>RESNET50 : </li>
     <li>Robuflow(Ball tracking dataset) : https://universe.roboflow.com/viren-dhanwani/tennis-ball-detection</li>
-    <li>Project inspiration : https://www.youtube.com/watch?v=L23oIHZE14w</li>
+    <li>Project Inspiration : https://www.youtube.com/watch?v=L23oIHZE14w</li>
 </ul>
 
